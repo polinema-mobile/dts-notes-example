@@ -1,6 +1,6 @@
 ## Contoh Aplikasi Catatan Sederhana
 
-Aplikasi catatan sederhana ini menggunakan penyimanan Room Persistance. Daftar catatan ditampilkan menggunakan RecyclerView
+Aplikasi catatan sederhana ini menggunakan penyimpanan Room Persistance. Daftar catatan ditampilkan menggunakan RecyclerView
 
 
 ## Catatan
